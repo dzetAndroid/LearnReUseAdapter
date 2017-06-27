@@ -7,3 +7,9 @@
 /build
 /captures
 .externalNativeBuild
+libs/
+src/main/res/drawable/
+.idea/modules/
+app/src/main/res/drawable/
+learnbaseadapter/src/main/res/drawable/
+learnbaseadapterhelper/src/main/res/drawable/
