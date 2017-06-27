@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LearnReUseAdapter.iml" filepath="$PROJECT_DIR$/LearnReUseAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learnbaseadapter/learnbaseadapter.iml" filepath="$PROJECT_DIR$/learnbaseadapter/learnbaseadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learnbaseadapterhelper/learnbaseadapterhelper.iml" filepath="$PROJECT_DIR$/learnbaseadapterhelper/learnbaseadapterhelper.iml" />
+    </modules>
+  </component>
+</project>
