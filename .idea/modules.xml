@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/learnbaseadapter/learnbaseadapter.iml" filepath="$PROJECT_DIR$/learnbaseadapter/learnbaseadapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/learnbaseadapterhelper/learnbaseadapterhelper.iml" filepath="$PROJECT_DIR$/learnbaseadapterhelper/learnbaseadapterhelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learnbrvah/learnbrvah.iml" filepath="$PROJECT_DIR$/learnbrvah/learnbrvah.iml" />
     </modules>
   </component>
 </project>

@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/learnbaseadapter" />
             <option value="$PROJECT_DIR$/learnbaseadapterhelper" />
+            <option value="$PROJECT_DIR$/learnbrvah" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
